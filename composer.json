@@ -1,0 +1,17 @@
+{
+    "name": "intega3/locale",
+    "type": "typo3-flow-package",
+    "description": "Intega3 OpenSource Intranet System - Default localization and translation package",
+    "version": "0.0.1",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Martin Tepper",
+            "email": "martintepper@dev-mt.de ",
+            "role": "Founder"
+        }
+    ],
+    "require": {
+        "typo3/fluid": "3.0.*"
+    }
+}
