@@ -51,8 +51,8 @@
         <target>Anmeldeformular</target>
       </trans-unit>
       <trans-unit id="label.register">
-        <source>Register here!</source>
-        <target>Zur Registierung!</target>
+        <source>Register here</source>
+        <target>Zur Registierung</target>
       </trans-unit>
       <trans-unit id="label.noAccount">
         <source>Not yet an account?</source>
